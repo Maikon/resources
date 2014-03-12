@@ -7,6 +7,7 @@
 ### Videos/Screencasts
 - [Fast Rails Tests Corey Haines](http://www.youtube.com/watch?v=bNn6M2vqxHE)
 - [Rails Tutorials by Schneems](http://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F)
+- [Perfect Workflow in Sublime Text](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
 
 ---------------------------------------
 ### Sublime Text
@@ -38,6 +39,7 @@
 
 ---------------------------------------
 ### Things to read/learn/understand (general)
+- [Conquering the Command Line](http://conqueringthecommandline.com/book)
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 - [DSL(domain specific language)](http://en.wikipedia.org/wiki/Domain_Specific_Language)
 - [Cohesion](http://en.wikipedia.org/wiki/Cohesion_(computer_science))
@@ -55,6 +57,12 @@
 - [Ruby Koans](http://rubykoans.com/)
 - JS Koans [here](https://github.com/liammclennan/JavaScript-Koans) and [here](https://github.com/mrdavidlaing/javascript-koans)
 - [Ruby Kickstart](http://ruby-kickstart.com/)
+- [Coder Sumo](http://codersumo.com/)
+- [Codewars](http://www.codewars.com)
+- [RubyMonk](https://rubymonk.com/)
+- [CodeQuizzes](http://www.codequizzes.com/)
+- [Project Euler](http://projecteuler.net/about)
+- [Codecademy](http://www.codecademy.com)
 
 ---------------------------------------
 ### Javascript
@@ -70,3 +78,5 @@
 - [The Well Grounded Rubyist](http://techedu.cu.cc/Programming/ruby/The%20Well-Grounded%20Rubyist/The%20Well-Grounded%20Rubyist.pdf)
 - [Eloquent Ruby](http://www.goodreads.com/book/show/9364729-eloquent-ruby)
 - [Structure and Interpretation of Computer Programs (MIT Electrical Engineering and Computer Science)](http://web.mit.edu/alexmv/6.S184/sicp.pdf)
+- [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/)
+- [Command Line Crash Course](http://cli.learncodethehardway.org/)
