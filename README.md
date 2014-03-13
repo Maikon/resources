@@ -38,8 +38,11 @@
 - [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
 
 ---------------------------------------
-### Things to read/learn/understand (general)
-- [Conquering the Command Line](http://conqueringthecommandline.com/book)
+### Vim
+- [25 Vim tutorials, screencasts and resources](http://code.tutsplus.com/articles/25-vim-tutorials-screencasts-and-resources--net-14631)
+
+---------------------------------------
+### Things to read/learn/understand at some point (general)
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 - [DSL(domain specific language)](http://en.wikipedia.org/wiki/Domain_Specific_Language)
 - [Cohesion](http://en.wikipedia.org/wiki/Cohesion_(computer_science))
@@ -49,6 +52,14 @@
 - [REST Architecture](http://en.wikipedia.org/wiki/Representational_state_transfer)
 - [Programmer Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)
 - [Extreme Programming Methodology](http://en.wikipedia.org/wiki/Extreme_Programming)
+-[Namespace](http://en.wikipedia.org/wiki/Namespace)
+-[Stateful Vs Stateless](http://programmers.stackexchange.com/questions/101337/whats-the-difference-between-stateful-and-stateless)
+
+---------------------------------------
+### Cheat Sheets
+- Git cheatsheet [here](http://ndpsoftware.com/git-cheatsheet.html), [here](https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf).
+- [Command Line Ruby](http://cheat.errtheblog.com/s/rvm)
+- Regular Expressions [here](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/) and [here]()
 
 
 ---------------------------------------
@@ -63,6 +74,7 @@
 - [CodeQuizzes](http://www.codequizzes.com/)
 - [Project Euler](http://projecteuler.net/about)
 - [Codecademy](http://www.codecademy.com)
+- [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
 
 ---------------------------------------
 ### Javascript
@@ -80,3 +92,9 @@
 - [Structure and Interpretation of Computer Programs (MIT Electrical Engineering and Computer Science)](http://web.mit.edu/alexmv/6.S184/sicp.pdf)
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/)
 - [Command Line Crash Course](http://cli.learncodethehardway.org/)
+- [Conquering the Command Line](http://conqueringthecommandline.com/book)
+
+---------------------------------------
+### Tools
+- [Rubular](http://rubular.com/)
+- [Changing from bash to zsh](https://github.com/robbyrussell/oh-my-zsh)
