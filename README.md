@@ -1,17 +1,21 @@
-## This a ongoing list of resources that either I found in my search towards programming enlightment or have been recommended by others.
+### This a ongoing list of resources that either I found in my search towards programming enlightment or have been recommended by others.
 
-### Testing
+##### Testing
 - [Types of Testing](http://en.wikipedia.org/wiki/Software_testing)
 
 ---------------------------------------
-### Videos/Screencasts
+##### Videos/Screencasts
 - [Fast Rails Tests Corey Haines](http://www.youtube.com/watch?v=bNn6M2vqxHE)
 - [Rails Tutorials by Schneems](http://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F)
 - [Perfect Workflow in Sublime Text](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
+- [Programming Methodology(Stanford)](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PLF587C09AE48E15A4&index=7)
+- [How SSL works](https://www.youtube.com/watch?v=iQsKdtjwtYI&list=PLF587C09AE48E15A4&index=9)
+- [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook&list=PLF587C09AE48E15A4&index=13)
+-
 
 ---------------------------------------
-### Sublime Text
-##### Useful Packages
+##### Sublime Text
+###### Useful Packages
 - [AdvancedNewFile](https://sublime.wbond.net/packages/AdvancedNewFile)
 - [AutoFileName](https://sublime.wbond.net/packages/AutoFileName)
 - [Bracket Highlighter](https://sublime.wbond.net/packages/BracketHighlighter)
@@ -38,11 +42,11 @@
 - [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
 
 ---------------------------------------
-### Vim
+##### Vim
 - [25 Vim tutorials, screencasts and resources](http://code.tutsplus.com/articles/25-vim-tutorials-screencasts-and-resources--net-14631)
 
 ---------------------------------------
-### Things to read/learn/understand at some point (general)
+##### Things to read/ learn /understand at some point (general)
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 - [DSL(domain specific language)](http://en.wikipedia.org/wiki/Domain_Specific_Language)
 - [Cohesion](http://en.wikipedia.org/wiki/Cohesion_(computer_science))
@@ -52,18 +56,19 @@
 - [REST Architecture](http://en.wikipedia.org/wiki/Representational_state_transfer)
 - [Programmer Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)
 - [Extreme Programming Methodology](http://en.wikipedia.org/wiki/Extreme_Programming)
--[Namespace](http://en.wikipedia.org/wiki/Namespace)
--[Stateful Vs Stateless](http://programmers.stackexchange.com/questions/101337/whats-the-difference-between-stateful-and-stateless)
+- [Namespace](http://en.wikipedia.org/wiki/Namespace)
+- [Stateful Vs Stateless](http://programmers.stackexchange.com/questions/101337/whats-the-difference-between-stateful-and-stateless)
+- [Important: Security](https://crackstation.net/hashing-security.htm)
 
 ---------------------------------------
-### Cheat Sheets
+##### Cheat Sheets
 - Git cheatsheet [here](http://ndpsoftware.com/git-cheatsheet.html), [here](https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf).
 - [Command Line Ruby](http://cheat.errtheblog.com/s/rvm)
 - Regular Expressions [here](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/) and [here]()
 
 
 ---------------------------------------
-### Resources for practise
+##### Resources for practise
 - [Exercism](http://exercism.io/)
 - [Ruby Koans](http://rubykoans.com/)
 - JS Koans [here](https://github.com/liammclennan/JavaScript-Koans) and [here](https://github.com/mrdavidlaing/javascript-koans)
@@ -77,14 +82,14 @@
 - [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
 
 ---------------------------------------
-### Javascript
+##### Javascript
 - [Intro to OO Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 - [OO Javascript: What you need to know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 - [The definitive Guide to OO Javascript](http://www.objectplayground.com/)
 - [SuperHeroJS: Extensive list of JS resources](http://superherojs.com/)
 
 ---------------------------------------
-### Books
+##### Books
 - [Eloquent Javascript](http://facstaff.elon.edu/wmoner/com550/ej.pdf)
 - [Javascript: The Good Parts](http://7chan.org/pr/src/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
 - [The Well Grounded Rubyist](http://techedu.cu.cc/Programming/ruby/The%20Well-Grounded%20Rubyist/The%20Well-Grounded%20Rubyist.pdf)
@@ -95,6 +100,6 @@
 - [Conquering the Command Line](http://conqueringthecommandline.com/book)
 
 ---------------------------------------
-### Tools
+##### Tools
 - [Rubular](http://rubular.com/)
 - [Changing from bash to zsh](https://github.com/robbyrussell/oh-my-zsh)
