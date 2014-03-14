@@ -11,7 +11,6 @@
 - [Programming Methodology(Stanford)](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PLF587C09AE48E15A4&index=7)
 - [How SSL works](https://www.youtube.com/watch?v=iQsKdtjwtYI&list=PLF587C09AE48E15A4&index=9)
 - [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook&list=PLF587C09AE48E15A4&index=13)
--
 
 ---------------------------------------
 ##### Sublime Text
