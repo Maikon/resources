@@ -2,6 +2,7 @@
 
 ##### Testing
 - [Types of Testing](http://en.wikipedia.org/wiki/Software_testing)
+- [Art of Unit Testing](http://artofunittesting.com/in-ruby/)
 
 ---------------------------------------
 ##### Videos/Screencasts
@@ -11,6 +12,7 @@
 - [Programming Methodology(Stanford)](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PLF587C09AE48E15A4&index=7)
 - [How SSL works](https://www.youtube.com/watch?v=iQsKdtjwtYI&list=PLF587C09AE48E15A4&index=9)
 - [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook&list=PLF587C09AE48E15A4&index=13)
+- [Egghead: AngularJS](https://egghead.io/lessons)
 
 ---------------------------------------
 ##### Sublime Text
@@ -45,11 +47,17 @@
 - [25 Vim tutorials, screencasts and resources](http://code.tutsplus.com/articles/25-vim-tutorials-screencasts-and-resources--net-14631)
 
 ---------------------------------------
+##### Git
+- [Git book](http://git-scm.com/book)
+
+---------------------------------------
 ##### Things to read/ learn /understand at some point (general)
+- [The UNIX Time-Sharing System](http://pdos.csail.mit.edu/6.828/2004/readings/ritchie74unix.pdf)
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 - [DSL(domain specific language)](http://en.wikipedia.org/wiki/Domain_Specific_Language)
 - [Cohesion](http://en.wikipedia.org/wiki/Cohesion_(computer_science))
 - [Coupling](http://en.wikipedia.org/wiki/Coupling_(computer_programming))
+- [Concurrency](http://en.wikipedia.org/wiki/Concurrency_(computer_science))
 - [Git Workflows](http://git-scm.com/book/en/Distributed-Git-Distributed-Workflows)
 - [LSP(Liskov Substitution Principle)](http://stackoverflow.com/questions/56860/what-is-the-liskov-substitution-principle)
 - [REST Architecture](http://en.wikipedia.org/wiki/Representational_state_transfer)
@@ -57,7 +65,7 @@
 - [Extreme Programming Methodology](http://en.wikipedia.org/wiki/Extreme_Programming)
 - [Namespace](http://en.wikipedia.org/wiki/Namespace)
 - [Stateful Vs Stateless](http://programmers.stackexchange.com/questions/101337/whats-the-difference-between-stateful-and-stateless)
-- [Important: Security](https://crackstation.net/hashing-security.htm)
+- [Security: Salting and Hashing (important)](https://crackstation.net/hashing-security.htm)
 
 ---------------------------------------
 ##### Cheat Sheets
@@ -102,3 +110,7 @@
 ##### Tools
 - [Rubular](http://rubular.com/)
 - [Changing from bash to zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+--------------------------------------
+##### Misc
+- [Contribute to open source projects](http://www.codetriage.com/)
