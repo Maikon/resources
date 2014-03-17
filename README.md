@@ -1,4 +1,4 @@
-### This a ongoing list of resources that either I found in my search towards programming enlightment or have been recommended by others.
+### This is an ongoing list of resources aiding in my search of programming enlightment. Feel free to contribute in any way.
 
 ##### Testing
 - [Types of Testing](http://en.wikipedia.org/wiki/Software_testing)
@@ -16,6 +16,9 @@
 
 ---------------------------------------
 ##### Sublime Text
+
+- [Sublime Power User tips](http://wesbos.github.io/Sublime-Text-Power-User-Talk/#1)
+
 ###### Useful Packages
 - [AdvancedNewFile](https://sublime.wbond.net/packages/AdvancedNewFile)
 - [AutoFileName](https://sublime.wbond.net/packages/AutoFileName)
@@ -41,6 +44,7 @@
 - [Cucumber](https://sublime.wbond.net/packages/Cucumber)
 - [Gherkin (cucumber) formatter](https://sublime.wbond.net/packages/Gherkin%20(Cucumber)%20Formatter)
 - [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
+- [ExpandRegion](https://sublime.wbond.net/packages/ExpandRegion)
 
 ---------------------------------------
 ##### Vim
@@ -51,9 +55,8 @@
 - [Git book](http://git-scm.com/book)
 
 ---------------------------------------
-##### Things to read/ learn /understand at some point (general)
+##### Things to read / learn / understand at some point (general)
 - [The UNIX Time-Sharing System](http://pdos.csail.mit.edu/6.828/2004/readings/ritchie74unix.pdf)
-- [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 - [DSL(domain specific language)](http://en.wikipedia.org/wiki/Domain_Specific_Language)
 - [Cohesion](http://en.wikipedia.org/wiki/Cohesion_(computer_science))
 - [Coupling](http://en.wikipedia.org/wiki/Coupling_(computer_programming))
@@ -61,11 +64,12 @@
 - [Git Workflows](http://git-scm.com/book/en/Distributed-Git-Distributed-Workflows)
 - [LSP(Liskov Substitution Principle)](http://stackoverflow.com/questions/56860/what-is-the-liskov-substitution-principle)
 - [REST Architecture](http://en.wikipedia.org/wiki/Representational_state_transfer)
-- [Programmer Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)
+- [What is RESTful programming](http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
 - [Extreme Programming Methodology](http://en.wikipedia.org/wiki/Extreme_Programming)
 - [Namespace](http://en.wikipedia.org/wiki/Namespace)
 - [Stateful Vs Stateless](http://programmers.stackexchange.com/questions/101337/whats-the-difference-between-stateful-and-stateless)
 - [Security: Salting and Hashing (important)](https://crackstation.net/hashing-security.htm)
+- [Memoization](http://en.wikipedia.org/wiki/Memoization)
 
 ---------------------------------------
 ##### Cheat Sheets
@@ -112,5 +116,10 @@
 - [Changing from bash to zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 --------------------------------------
-##### Misc
+##### Useful links
 - [Contribute to open source projects](http://www.codetriage.com/)
+- [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
+- [Programmer Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)
+- [Rails Console Tips and Tricks](http://pragmaticstudio.com/blog/2014/3/11/console-shortcuts-tips-tricks)
+- [Essential Gems when starting ROR project](http://thecrentist.com/2013/10/01/essential-gems-ruby-on-rails-project)
+- [Single Table Inheritance in Rails](http://www.alexreisner.com/code/single-table-inheritance-in-rails)
