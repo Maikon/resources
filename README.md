@@ -90,7 +90,7 @@
 - [CodeQuizzes](http://www.codequizzes.com/)
 - [Project Euler](http://projecteuler.net/about)
 - [Codecademy](http://www.codecademy.com)
-- [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
+- [CodeCombat](http://codecombat.com/)
 
 ---------------------------------------
 ##### Javascript
@@ -98,6 +98,7 @@
 - [OO Javascript: What you need to know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 - [The definitive Guide to OO Javascript](http://www.objectplayground.com/)
 - [SuperHeroJS: Extensive list of JS resources](http://superherojs.com/)
+
 
 ---------------------------------------
 ##### Books
@@ -118,6 +119,7 @@
 
 --------------------------------------
 ##### Useful links
+- [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
 - [Contribute to open source projects](http://www.codetriage.com/)
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 - [Programmer Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)
@@ -126,3 +128,4 @@
 - [Single Table Inheritance in Rails](http://www.alexreisner.com/code/single-table-inheritance-in-rails)
 - [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 - [D3 Tutorial](http://alignedleft.com/tutorials/d3)
+- Ruby One-Liners [here](http://reference.jumpingmonkey.org/programming_languages/ruby/ruby-one-liners.html) and [here](https://gist.github.com/KL-7/1590797)
