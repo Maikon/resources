@@ -114,6 +114,7 @@
 ##### Tools
 - [Rubular](http://rubular.com/)
 - [Changing from bash to zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Pry](http://pryrepl.org/)
 
 --------------------------------------
 ##### Useful links
@@ -123,3 +124,5 @@
 - [Rails Console Tips and Tricks](http://pragmaticstudio.com/blog/2014/3/11/console-shortcuts-tips-tricks)
 - [Essential Gems when starting ROR project](http://thecrentist.com/2013/10/01/essential-gems-ruby-on-rails-project)
 - [Single Table Inheritance in Rails](http://www.alexreisner.com/code/single-table-inheritance-in-rails)
+- [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+- [D3 Tutorial](http://alignedleft.com/tutorials/d3)
