@@ -70,6 +70,9 @@
 - [Stateful Vs Stateless](http://programmers.stackexchange.com/questions/101337/whats-the-difference-between-stateful-and-stateless)
 - [Security: Salting and Hashing (important)](https://crackstation.net/hashing-security.htm)
 - [Memoization](http://en.wikipedia.org/wiki/Memoization)
+- [Hypertext Transfer Protocol](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+- [Microservices](http://martinfowler.com/articles/microservices.html)
+- [Implementing Microservice Architectures](http://oredev.org/2013/wed-fri-conference/implementing-micro-service-architectures)
 
 ---------------------------------------
 ##### Cheat Sheets
@@ -129,3 +132,4 @@
 - [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 - [D3 Tutorial](http://alignedleft.com/tutorials/d3)
 - Ruby One-Liners [here](http://reference.jumpingmonkey.org/programming_languages/ruby/ruby-one-liners.html) and [here](https://gist.github.com/KL-7/1590797)
+- [Infinite Scroll for AngularJS](http://binarymuse.github.io/ngInfiniteScroll/)
