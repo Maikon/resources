@@ -119,6 +119,7 @@
 - [Rubular](http://rubular.com/)
 - [Changing from bash to zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Pry](http://pryrepl.org/)
+- [Chrome DevTools Autosave](http://addyosmani.com/blog/autosave-changes-chrome-dev-tools/)
 
 --------------------------------------
 ##### Useful links
@@ -133,3 +134,5 @@
 - [D3 Tutorial](http://alignedleft.com/tutorials/d3)
 - Ruby One-Liners [here](http://reference.jumpingmonkey.org/programming_languages/ruby/ruby-one-liners.html) and [here](https://gist.github.com/KL-7/1590797)
 - [Infinite Scroll for AngularJS](http://binarymuse.github.io/ngInfiniteScroll/)
+- [Consume or Provide API's](https://www.mashape.com/)
+- [Exhaustive list of resources on Github](https://github.com/showcases/)
