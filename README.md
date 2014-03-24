@@ -53,6 +53,7 @@
 ---------------------------------------
 ##### Git
 - [Git book](http://git-scm.com/book)
+- [Explaining Git with D3](http://www.wei-wang.com/ExplainGitWithD3/)
 
 ---------------------------------------
 ##### Things to read / learn / understand at some point (general)
@@ -136,3 +137,4 @@
 - [Infinite Scroll for AngularJS](http://binarymuse.github.io/ngInfiniteScroll/)
 - [Consume or Provide API's](https://www.mashape.com/)
 - [Exhaustive list of resources on Github](https://github.com/showcases/)
+- [Learn Clojure in 15min](http://adambard.com/blog/clojure-in-15-minutes/)
