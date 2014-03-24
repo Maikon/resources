@@ -97,6 +97,14 @@
 - [CodeCombat](http://codecombat.com/)
 
 ---------------------------------------
+##### Ruby
+- [Closures in Ruby](http://innig.net/software/ruby/closures-in-ruby)
+- [Understanding Ruby blocks, Procs and methods](http://eli.thegreenplace.net/2006/04/18/understanding-ruby-blocks-procs-and-methods/)
+- [Understanding Ruby Blocks, Procs and Lambdas](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/)
+- [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
+
+
+---------------------------------------
 ##### Javascript
 - [Intro to OO Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 - [OO Javascript: What you need to know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
@@ -126,7 +134,6 @@
 ##### Useful links
 - [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
 - [Contribute to open source projects](http://www.codetriage.com/)
-- [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 - [Programmer Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)
 - [Rails Console Tips and Tricks](http://pragmaticstudio.com/blog/2014/3/11/console-shortcuts-tips-tricks)
 - [Essential Gems when starting ROR project](http://thecrentist.com/2013/10/01/essential-gems-ruby-on-rails-project)
