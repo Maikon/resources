@@ -79,8 +79,8 @@
 ##### Cheat Sheets
 - Git cheatsheet [here](http://ndpsoftware.com/git-cheatsheet.html), [here](https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf).
 - [Command Line Ruby](http://cheat.errtheblog.com/s/rvm)
-- Regular Expressions [here](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/) and [here]()
-
+- [Regular Expressions](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
+- [Variety of Cheat Sheets](http://overapi.com)
 
 ---------------------------------------
 ##### Resources for practise
@@ -132,6 +132,7 @@
 
 --------------------------------------
 ##### Useful links
+- [Explain Shell (input command-line and see what it means)](http://explainshell.com/)
 - [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
 - [Contribute to open source projects](http://www.codetriage.com/)
 - [Programmer Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)
@@ -145,3 +146,4 @@
 - [Consume or Provide API's](https://www.mashape.com/)
 - [Exhaustive list of resources on Github](https://github.com/showcases/)
 - [Learn Clojure in 15min](http://adambard.com/blog/clojure-in-15-minutes/)
+- [Stub out External Services in Tests](http://robots.thoughtbot.com/how-to-stub-external-services-in-tests)
