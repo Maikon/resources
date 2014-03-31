@@ -18,6 +18,9 @@
 ##### Sublime Text
 
 - [Sublime Power User tips](http://wesbos.github.io/Sublime-Text-Power-User-Talk/#1)
+- [Using Source Code Pro with ST and Terminal](http://blogs.adobe.com/cantrell/archives/2012/10/using-source-code-pro-with-sublime-text-2.html)
+- [Use Dropbox to sync your Sublime Text settings](http://thoughtfulweb.co.uk/thoughts/about/use-a-dropbox-account-to-synchronise-your-sublime-text-2-settings?utm_content=buffer76518&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Similar to the above](http://stackoverflow.com/questions/11365948/how-to-save-restore-sublime-text-2-configs-plugins-to-migrate-to-another-compute/11399206?utm_content=buffer0b933&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#11399206)
 
 ###### Useful Packages
 - [AdvancedNewFile](https://sublime.wbond.net/packages/AdvancedNewFile)
@@ -54,6 +57,7 @@
 ##### Git
 - [Git book](http://git-scm.com/book)
 - [Explaining Git with D3](http://www.wei-wang.com/ExplainGitWithD3/)
+- [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 
 ---------------------------------------
 ##### Things to read / learn / understand at some point (general)
@@ -147,3 +151,4 @@
 - [Exhaustive list of resources on Github](https://github.com/showcases/)
 - [Learn Clojure in 15min](http://adambard.com/blog/clojure-in-15-minutes/)
 - [Stub out External Services in Tests](http://robots.thoughtbot.com/how-to-stub-external-services-in-tests)
+- [Microservices](http://martinfowler.com/articles/microservices.html#AreMicroservicesTheFuture)
