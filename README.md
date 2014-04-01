@@ -152,3 +152,5 @@
 - [Learn Clojure in 15min](http://adambard.com/blog/clojure-in-15-minutes/)
 - [Stub out External Services in Tests](http://robots.thoughtbot.com/how-to-stub-external-services-in-tests)
 - [Microservices](http://martinfowler.com/articles/microservices.html#AreMicroservicesTheFuture)
+- [Simple Blog with Sinatra and Active Record](http://www.danneu.com/posts/15-a-simple-blog-with-sinatra-and-active-record-some-useful-tools/)
+- [How to Level Up as a Developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
