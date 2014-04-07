@@ -56,6 +56,16 @@
 - [25 Vim tutorials, screencasts and resources](http://code.tutsplus.com/articles/25-vim-tutorials-screencasts-and-resources--net-14631)
 
 ---------------------------------------
+##### UNIX
+- [The unix timesharing system](http://pdos.csail.mit.edu/6.828/2004/readings/ritchie74unix.pdf)
+
+###### dotfiles
+- [dotfiles on github](http://dotfiles.github.io/)
+- [managing your dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
+- [dotfiles are ment to be forked](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
+- [Sublime settings to dotfile](http://zanshin.net/2012/08/03/adding-sublime-text-2-settings-themes-plugins-to-dotfiles/)
+
+---------------------------------------
 ##### Git
 - [Git book](http://git-scm.com/book)
 - [Explaining Git with D3](http://www.wei-wang.com/ExplainGitWithD3/)
@@ -114,6 +124,7 @@
 
 ###### Rails
 - [Essential Gems when starting ROR project](http://thecrentist.com/2013/10/01/essential-gems-ruby-on-rails-project)
+- [Single Page Applications with rails](http://selleo.com/blog/technologies/building-single-page-web-applications-with-ruby-on-rails/)
 
 ###### Useful Gems
 - [Rspec-Fire, More resilient test doubles for RSpec](https://github.com/xaviershay/rspec-fire)
@@ -140,6 +151,11 @@
 - [Microservices and Functional Programming](http://www.slideshare.net/michaelneale/microservices-and-functional-programming)
 
 ---------------------------------------
+##### Mobile Phonegap
+- [Ripple Phonegap Emulate](http://emulate.phonegap.com/)
+- [Debugging in phonegap](https://github.com/phonegap/phonegap/wiki/Debugging-in-PhoneGap)
+
+---------------------------------------
 ##### Books
 - [Eloquent Javascript](http://facstaff.elon.edu/wmoner/com550/ej.pdf)
 - [Javascript: The Good Parts](http://7chan.org/pr/src/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
@@ -161,12 +177,15 @@
 ##### Useful links
 
 ###### Tools
+- [Automated Phonegap build](http://www.tricedesigns.com/2014/01/17/automating-phonegap-builds/)
 
 ###### Services
 - [List of useful tools](http://www.devmynd.com/blog/2013-11-it-s-a-series-of-tools)
 - [Explain Shell (input command-line and see what it means)](http://explainshell.com/)
 - [Consume or Provide API's](https://www.mashape.com/)
 - [Kimono: Turn websites into structured APIs from your browser in seconds](http://www.kimonolabs.com/)
+- [Codebees](http://www.cloudbees.com/)
+- [logstash](http://logstash.net/)
 
 ###### Practices and Methods
 - [Contribute to open source projects](http://www.codetriage.com/)
@@ -186,3 +205,7 @@
 - Ruby One-Liners [here](http://reference.jumpingmonkey.org/programming_languages/ruby/ruby-one-liners.html) and [here](https://gist.github.com/KL-7/1590797)
 - [Infinite Scroll for AngularJS](http://binarymuse.github.io/ngInfiniteScroll/)
 - [Exhaustive list of resources on Github](https://github.com/showcases/)
+- [Artoo: Ruby and Robots](http://artoo.io/)
+- [Apps for](http://www.appsforgood.org/)
+- [Give to View](http://www.givetoview.com/)
+- [chrome sniffer](http://techdo.me/chrome-sniffer-a-must-have-chrome-extension-for-web-developers/)
