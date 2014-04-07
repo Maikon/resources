@@ -128,6 +128,13 @@
 
 
 ---------------------------------------
+##### Clojure
+- [Learn Clojure in 15min](http://adambard.com/blog/clojure-in-15-minutes/)
+- [Brave Clojure](http://www.braveclojure.com/do-things/)
+- [Clojure Cheatsheet](http://clojure.org/cheatsheet)
+- [4clojure](https://www.4clojure.com/)
+
+---------------------------------------
 ##### Books
 - [Eloquent Javascript](http://facstaff.elon.edu/wmoner/com550/ej.pdf)
 - [Javascript: The Good Parts](http://7chan.org/pr/src/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
@@ -173,5 +180,4 @@
 - Ruby One-Liners [here](http://reference.jumpingmonkey.org/programming_languages/ruby/ruby-one-liners.html) and [here](https://gist.github.com/KL-7/1590797)
 - [Infinite Scroll for AngularJS](http://binarymuse.github.io/ngInfiniteScroll/)
 - [Exhaustive list of resources on Github](https://github.com/showcases/)
-- [Learn Clojure in 15min](http://adambard.com/blog/clojure-in-15-minutes/)
 - [Microservices](http://martinfowler.com/articles/microservices.html#AreMicroservicesTheFuture)
