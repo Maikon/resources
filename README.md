@@ -135,6 +135,11 @@
 - [4clojure](https://www.4clojure.com/)
 
 ---------------------------------------
+##### Microservices
+- [Are microservices the future](http://martinfowler.com/articles/microservices.html#AreMicroservicesTheFuture)
+- [Microservices and Functional Programming](http://www.slideshare.net/michaelneale/microservices-and-functional-programming)
+
+---------------------------------------
 ##### Books
 - [Eloquent Javascript](http://facstaff.elon.edu/wmoner/com550/ej.pdf)
 - [Javascript: The Good Parts](http://7chan.org/pr/src/OReilly_JavaScript_The_Good_Parts_May_2008.pdf)
@@ -173,6 +178,7 @@
 - [Stub out External Services in Tests](http://robots.thoughtbot.com/how-to-stub-external-services-in-tests)
 - [Rails Console Tips and Tricks](http://pragmaticstudio.com/blog/2014/3/11/console-shortcuts-tips-tricks)
 - [Single Table Inheritance in Rails](http://www.alexreisner.com/code/single-table-inheritance-in-rails)
+- [Pair Programming research](http://people.cs.vt.edu/~mccricks/papers/wmlh08.pdf)
 
 - [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
 - [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
@@ -180,4 +186,3 @@
 - Ruby One-Liners [here](http://reference.jumpingmonkey.org/programming_languages/ruby/ruby-one-liners.html) and [here](https://gist.github.com/KL-7/1590797)
 - [Infinite Scroll for AngularJS](http://binarymuse.github.io/ngInfiniteScroll/)
 - [Exhaustive list of resources on Github](https://github.com/showcases/)
-- [Microservices](http://martinfowler.com/articles/microservices.html#AreMicroservicesTheFuture)
