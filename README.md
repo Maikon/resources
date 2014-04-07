@@ -118,8 +118,9 @@
 - [Understanding Ruby blocks, Procs and methods](http://eli.thegreenplace.net/2006/04/18/understanding-ruby-blocks-procs-and-methods/)
 - [Understanding Ruby Blocks, Procs and Lambdas](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/)
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
+- [21 Ruby Tricks you should be using in your own code](http://www.rubyinside.com/21-ruby-tricks-902.html)
 
-###### Sinatra 
+###### Sinatra
 - [Simple Blog with Sinatra and Active Record](http://www.danneu.com/posts/15-a-simple-blog-with-sinatra-and-active-record-some-useful-tools/)
 
 ###### Rails
@@ -170,18 +171,16 @@
 - [Command Line Crash Course](http://cli.learncodethehardway.org/)
 - [Conquering the Command Line](http://conqueringthecommandline.com/book)
 
----------------------------------------
-##### Tools
-- [Rubular](http://rubular.com/)
-- [Changing from bash to zsh](https://github.com/robbyrussell/oh-my-zsh)
-- [Pry](http://pryrepl.org/)
-- [Chrome DevTools Autosave](http://addyosmani.com/blog/autosave-changes-chrome-dev-tools/)
-
 --------------------------------------
 ##### Useful links
 
 ###### Tools
+- [Rubular](http://rubular.com/)
+- [Changing from bash to zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Pry](http://pryrepl.org/)
+- [Chrome DevTools Autosave](http://addyosmani.com/blog/autosave-changes-chrome-dev-tools/)
 - [Automated Phonegap build](http://www.tricedesigns.com/2014/01/17/automating-phonegap-builds/)
+- [Terminal Multiplexer](http://tmux.sourceforge.net/)
 
 ###### Services
 - [List of useful tools](http://www.devmynd.com/blog/2013-11-it-s-a-series-of-tools)
