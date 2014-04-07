@@ -108,6 +108,8 @@
 - [Understanding Ruby Blocks, Procs and Lambdas](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/)
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 
+###### Useful Gems
+- [Rspec-Fire, More resilient test doubles for RSpec](https://github.com/xaviershay/rspec-fire)
 
 ---------------------------------------
 ##### Javascript
