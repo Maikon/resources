@@ -108,6 +108,12 @@
 - [Understanding Ruby Blocks, Procs and Lambdas](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/)
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 
+###### Sinatra 
+- [Simple Blog with Sinatra and Active Record](http://www.danneu.com/posts/15-a-simple-blog-with-sinatra-and-active-record-some-useful-tools/)
+
+###### Rails
+- [Essential Gems when starting ROR project](http://thecrentist.com/2013/10/01/essential-gems-ruby-on-rails-project)
+
 ###### Useful Gems
 - [Rspec-Fire, More resilient test doubles for RSpec](https://github.com/xaviershay/rspec-fire)
 
@@ -140,22 +146,31 @@
 
 --------------------------------------
 ##### Useful links
+
+###### Tools
+
+###### Services
+- [List of useful tools](http://www.devmynd.com/blog/2013-11-it-s-a-series-of-tools)
 - [Explain Shell (input command-line and see what it means)](http://explainshell.com/)
-- [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
+- [Consume or Provide API's](https://www.mashape.com/)
+- [Kimono: Turn websites into structured APIs from your browser in seconds](http://www.kimonolabs.com/)
+
+###### Practices and Methods
 - [Contribute to open source projects](http://www.codetriage.com/)
 - [Programmer Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)
+- [Hammock Driven Development](https://gibbon.co/wunki/clojures-best-presentations/hammock-driven-development-rich-hickey)
+- [How to Level Up as a Developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
+
+###### Hints and Tips
+- [Stub out External Services in Tests](http://robots.thoughtbot.com/how-to-stub-external-services-in-tests)
 - [Rails Console Tips and Tricks](http://pragmaticstudio.com/blog/2014/3/11/console-shortcuts-tips-tricks)
-- [Essential Gems when starting ROR project](http://thecrentist.com/2013/10/01/essential-gems-ruby-on-rails-project)
 - [Single Table Inheritance in Rails](http://www.alexreisner.com/code/single-table-inheritance-in-rails)
+
+- [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
 - [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 - [D3 Tutorial](http://alignedleft.com/tutorials/d3)
 - Ruby One-Liners [here](http://reference.jumpingmonkey.org/programming_languages/ruby/ruby-one-liners.html) and [here](https://gist.github.com/KL-7/1590797)
 - [Infinite Scroll for AngularJS](http://binarymuse.github.io/ngInfiniteScroll/)
-- [Consume or Provide API's](https://www.mashape.com/)
 - [Exhaustive list of resources on Github](https://github.com/showcases/)
 - [Learn Clojure in 15min](http://adambard.com/blog/clojure-in-15-minutes/)
-- [Stub out External Services in Tests](http://robots.thoughtbot.com/how-to-stub-external-services-in-tests)
 - [Microservices](http://martinfowler.com/articles/microservices.html#AreMicroservicesTheFuture)
-- [Simple Blog with Sinatra and Active Record](http://www.danneu.com/posts/15-a-simple-blog-with-sinatra-and-active-record-some-useful-tools/)
-- [How to Level Up as a Developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
-- [Hammock Driven Development](https://gibbon.co/wunki/clojures-best-presentations/hammock-driven-development-rich-hickey)
