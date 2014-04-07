@@ -13,6 +13,7 @@
 - [How SSL works](https://www.youtube.com/watch?v=iQsKdtjwtYI&list=PLF587C09AE48E15A4&index=9)
 - [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook&list=PLF587C09AE48E15A4&index=13)
 - [Egghead: AngularJS](https://egghead.io/lessons)
+- [Effecient test driven development for rails](https://www.youtube.com/watch?v=ra8Q0M3DJYk)
 
 ---------------------------------------
 ##### Sublime Text
