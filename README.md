@@ -117,6 +117,7 @@
 - [OO Javascript: What you need to know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 - [The definitive Guide to OO Javascript](http://www.objectplayground.com/)
 - [SuperHeroJS: Extensive list of JS resources](http://superherojs.com/)
+- [A List Apart: Getting out of binding situations in JavaScript](http://alistapart.com/article/getoutbindingsituations)
 
 
 ---------------------------------------
@@ -157,3 +158,4 @@
 - [Microservices](http://martinfowler.com/articles/microservices.html#AreMicroservicesTheFuture)
 - [Simple Blog with Sinatra and Active Record](http://www.danneu.com/posts/15-a-simple-blog-with-sinatra-and-active-record-some-useful-tools/)
 - [How to Level Up as a Developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
+- [Hammock Driven Development](https://gibbon.co/wunki/clojures-best-presentations/hammock-driven-development-rich-hickey)
