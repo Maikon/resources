@@ -13,6 +13,7 @@
 - [How SSL works](https://www.youtube.com/watch?v=iQsKdtjwtYI&list=PLF587C09AE48E15A4&index=9)
 - [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook&list=PLF587C09AE48E15A4&index=13)
 - [Egghead: AngularJS](https://egghead.io/lessons)
+- [Effecient test driven development for rails](https://www.youtube.com/watch?v=ra8Q0M3DJYk)
 
 ---------------------------------------
 ##### Sublime Text
@@ -53,6 +54,16 @@
 ---------------------------------------
 ##### Vim
 - [25 Vim tutorials, screencasts and resources](http://code.tutsplus.com/articles/25-vim-tutorials-screencasts-and-resources--net-14631)
+
+---------------------------------------
+##### UNIX
+- [The unix timesharing system](http://pdos.csail.mit.edu/6.828/2004/readings/ritchie74unix.pdf)
+
+###### dotfiles
+- [dotfiles on github](http://dotfiles.github.io/)
+- [managing your dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
+- [dotfiles are ment to be forked](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
+- [Sublime settings to dotfile](http://zanshin.net/2012/08/03/adding-sublime-text-2-settings-themes-plugins-to-dotfiles/)
 
 ---------------------------------------
 ##### Git
@@ -108,6 +119,13 @@
 - [Understanding Ruby Blocks, Procs and Lambdas](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/)
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 
+###### Sinatra 
+- [Simple Blog with Sinatra and Active Record](http://www.danneu.com/posts/15-a-simple-blog-with-sinatra-and-active-record-some-useful-tools/)
+
+###### Rails
+- [Essential Gems when starting ROR project](http://thecrentist.com/2013/10/01/essential-gems-ruby-on-rails-project)
+- [Single Page Applications with rails](http://selleo.com/blog/technologies/building-single-page-web-applications-with-ruby-on-rails/)
+
 ###### Useful Gems
 - [Rspec-Fire, More resilient test doubles for RSpec](https://github.com/xaviershay/rspec-fire)
 
@@ -119,6 +137,23 @@
 - [SuperHeroJS: Extensive list of JS resources](http://superherojs.com/)
 - [A List Apart: Getting out of binding situations in JavaScript](http://alistapart.com/article/getoutbindingsituations)
 
+
+---------------------------------------
+##### Clojure
+- [Learn Clojure in 15min](http://adambard.com/blog/clojure-in-15-minutes/)
+- [Brave Clojure](http://www.braveclojure.com/do-things/)
+- [Clojure Cheatsheet](http://clojure.org/cheatsheet)
+- [4clojure](https://www.4clojure.com/)
+
+---------------------------------------
+##### Microservices
+- [Are microservices the future](http://martinfowler.com/articles/microservices.html#AreMicroservicesTheFuture)
+- [Microservices and Functional Programming](http://www.slideshare.net/michaelneale/microservices-and-functional-programming)
+
+---------------------------------------
+##### Mobile Phonegap
+- [Ripple Phonegap Emulate](http://emulate.phonegap.com/)
+- [Debugging in phonegap](https://github.com/phonegap/phonegap/wiki/Debugging-in-PhoneGap)
 
 ---------------------------------------
 ##### Books
@@ -140,22 +175,37 @@
 
 --------------------------------------
 ##### Useful links
+
+###### Tools
+- [Automated Phonegap build](http://www.tricedesigns.com/2014/01/17/automating-phonegap-builds/)
+
+###### Services
+- [List of useful tools](http://www.devmynd.com/blog/2013-11-it-s-a-series-of-tools)
 - [Explain Shell (input command-line and see what it means)](http://explainshell.com/)
-- [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
+- [Consume or Provide API's](https://www.mashape.com/)
+- [Kimono: Turn websites into structured APIs from your browser in seconds](http://www.kimonolabs.com/)
+- [Codebees](http://www.cloudbees.com/)
+- [logstash](http://logstash.net/)
+
+###### Practices and Methods
 - [Contribute to open source projects](http://www.codetriage.com/)
 - [Programmer Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)
+- [Hammock Driven Development](https://gibbon.co/wunki/clojures-best-presentations/hammock-driven-development-rich-hickey)
+- [How to Level Up as a Developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
+
+###### Hints and Tips
+- [Stub out External Services in Tests](http://robots.thoughtbot.com/how-to-stub-external-services-in-tests)
 - [Rails Console Tips and Tricks](http://pragmaticstudio.com/blog/2014/3/11/console-shortcuts-tips-tricks)
-- [Essential Gems when starting ROR project](http://thecrentist.com/2013/10/01/essential-gems-ruby-on-rails-project)
 - [Single Table Inheritance in Rails](http://www.alexreisner.com/code/single-table-inheritance-in-rails)
+- [Pair Programming research](http://people.cs.vt.edu/~mccricks/papers/wmlh08.pdf)
+
+- [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
 - [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 - [D3 Tutorial](http://alignedleft.com/tutorials/d3)
 - Ruby One-Liners [here](http://reference.jumpingmonkey.org/programming_languages/ruby/ruby-one-liners.html) and [here](https://gist.github.com/KL-7/1590797)
 - [Infinite Scroll for AngularJS](http://binarymuse.github.io/ngInfiniteScroll/)
-- [Consume or Provide API's](https://www.mashape.com/)
 - [Exhaustive list of resources on Github](https://github.com/showcases/)
-- [Learn Clojure in 15min](http://adambard.com/blog/clojure-in-15-minutes/)
-- [Stub out External Services in Tests](http://robots.thoughtbot.com/how-to-stub-external-services-in-tests)
-- [Microservices](http://martinfowler.com/articles/microservices.html#AreMicroservicesTheFuture)
-- [Simple Blog with Sinatra and Active Record](http://www.danneu.com/posts/15-a-simple-blog-with-sinatra-and-active-record-some-useful-tools/)
-- [How to Level Up as a Developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
-- [Hammock Driven Development](https://gibbon.co/wunki/clojures-best-presentations/hammock-driven-development-rich-hickey)
+- [Artoo: Ruby and Robots](http://artoo.io/)
+- [Apps for](http://www.appsforgood.org/)
+- [Give to View](http://www.givetoview.com/)
+- [chrome sniffer](http://techdo.me/chrome-sniffer-a-must-have-chrome-extension-for-web-developers/)
