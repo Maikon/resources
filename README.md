@@ -48,6 +48,7 @@
 - [Gherkin (cucumber) formatter](https://sublime.wbond.net/packages/Gherkin%20(Cucumber)%20Formatter)
 - [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
 - [ExpandRegion](https://sublime.wbond.net/packages/ExpandRegion)
+- [Prefixr](http://wbond.net/sublime_packages/prefixr)
 
 ---------------------------------------
 ##### Vim
@@ -107,6 +108,8 @@
 - [Understanding Ruby Blocks, Procs and Lambdas](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/)
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 
+###### Useful Gems
+- [Rspec-Fire, More resilient test doubles for RSpec](https://github.com/xaviershay/rspec-fire)
 
 ---------------------------------------
 ##### Javascript
@@ -114,6 +117,7 @@
 - [OO Javascript: What you need to know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 - [The definitive Guide to OO Javascript](http://www.objectplayground.com/)
 - [SuperHeroJS: Extensive list of JS resources](http://superherojs.com/)
+- [A List Apart: Getting out of binding situations in JavaScript](http://alistapart.com/article/getoutbindingsituations)
 
 
 ---------------------------------------
@@ -154,3 +158,4 @@
 - [Microservices](http://martinfowler.com/articles/microservices.html#AreMicroservicesTheFuture)
 - [Simple Blog with Sinatra and Active Record](http://www.danneu.com/posts/15-a-simple-blog-with-sinatra-and-active-record-some-useful-tools/)
 - [How to Level Up as a Developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
+- [Hammock Driven Development](https://gibbon.co/wunki/clojures-best-presentations/hammock-driven-development-rich-hickey)
