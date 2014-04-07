@@ -48,6 +48,7 @@
 - [Gherkin (cucumber) formatter](https://sublime.wbond.net/packages/Gherkin%20(Cucumber)%20Formatter)
 - [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
 - [ExpandRegion](https://sublime.wbond.net/packages/ExpandRegion)
+- [Prefixr](http://wbond.net/sublime_packages/prefixr)
 
 ---------------------------------------
 ##### Vim
