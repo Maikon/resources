@@ -90,6 +90,7 @@
 - [Hypertext Transfer Protocol](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 - [Microservices](http://martinfowler.com/articles/microservices.html)
 - [Implementing Microservice Architectures](http://oredev.org/2013/wed-fri-conference/implementing-micro-service-architectures)
+- [Recursion and Memoization](http://rayhightower.com/blog/2014/04/12/recursion-and-memoization/)
 
 ---------------------------------------
 ##### Cheat Sheets
@@ -119,6 +120,7 @@
 - [Understanding Ruby Blocks, Procs and Lambdas](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/)
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 - [21 Ruby Tricks you should be using in your own code](http://www.rubyinside.com/21-ruby-tricks-902.html)
+- [Gosu (2D Game Library for Ruby)](http://www.libgosu.org/)
 
 ###### Sinatra
 - [Simple Blog with Sinatra and Active Record](http://www.danneu.com/posts/15-a-simple-blog-with-sinatra-and-active-record-some-useful-tools/)
