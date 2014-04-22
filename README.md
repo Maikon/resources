@@ -5,7 +5,7 @@
 - [Art of Unit Testing](http://artofunittesting.com/in-ruby/)
 
 ---------------------------------------
-##### Videos/Screencasts
+##### Talks/Videos/Screencasts
 - [Fast Rails Tests Corey Haines](http://www.youtube.com/watch?v=bNn6M2vqxHE)
 - [Rails Tutorials by Schneems](http://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F)
 - [Perfect Workflow in Sublime Text](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
@@ -14,6 +14,11 @@
 - [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook&list=PLF587C09AE48E15A4&index=13)
 - [Egghead: AngularJS](https://egghead.io/lessons)
 - [Effecient test driven development for rails](https://www.youtube.com/watch?v=ra8Q0M3DJYk)
+- [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc&list=PLF587C09AE48E15A4&index=17)
+- [The value of values](https://www.youtube.com/watch?v=-6BsiVyC1kM)
+- [Ruby Arrays on Steroids](https://www.youtube.com/watch?v=UX7xmhpUoi4)
+- [Writing games in Ruby](https://www.youtube.com/watch?v=jJhbpY70miE)
+- [Introduction to Recursion (Part 1)](https://www.youtube.com/watch?v=TA_qrRZ1cpI)
 
 ---------------------------------------
 ##### Sublime Text
@@ -214,3 +219,4 @@
 - [Apps for](http://www.appsforgood.org/)
 - [Give to View](http://www.givetoview.com/)
 - [chrome sniffer](http://techdo.me/chrome-sniffer-a-must-have-chrome-extension-for-web-developers/)
+
