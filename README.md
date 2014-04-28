@@ -96,7 +96,7 @@
 - [Microservices](http://martinfowler.com/articles/microservices.html)
 - [Implementing Microservice Architectures](http://oredev.org/2013/wed-fri-conference/implementing-micro-service-architectures)
 - [Recursion and Memoization](http://rayhightower.com/blog/2014/04/12/recursion-and-memoization/)
-
+- [List of Object-Oriented Programming Terms](http://en.wikipedia.org/wiki/List_of_object-oriented_programming_terms)
 ---------------------------------------
 ##### Cheat Sheets
 - Git cheatsheet [here](http://ndpsoftware.com/git-cheatsheet.html), [here](https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf).
@@ -126,6 +126,7 @@
 - [Ruby's *(splat) operator](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
 - [21 Ruby Tricks you should be using in your own code](http://www.rubyinside.com/21-ruby-tricks-902.html)
 - [Gosu (2D Game Library for Ruby)](http://www.libgosu.org/)
+- [Ruby Operators](http://www.tutorialspoint.com/ruby/ruby_operators.htm)
 
 ###### Sinatra
 - [Simple Blog with Sinatra and Active Record](http://www.danneu.com/posts/15-a-simple-blog-with-sinatra-and-active-record-some-useful-tools/)
@@ -202,13 +203,14 @@
 - [Programmer Anarchy](https://www.youtube.com/watch?v=uk-CF7klLdA)
 - [Hammock Driven Development](https://gibbon.co/wunki/clojures-best-presentations/hammock-driven-development-rich-hickey)
 - [How to Level Up as a Developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
+- [Technology Radar](http://www.thoughtworks.com/radar/#/)
+- [As a new Rubyist, what can I do? (Excellent resources here)](http://rubylove.io/2014/04/26/as-a-new-rubyist-what-can-i-do/)
 
 ###### Hints and Tips
 - [Stub out External Services in Tests](http://robots.thoughtbot.com/how-to-stub-external-services-in-tests)
 - [Rails Console Tips and Tricks](http://pragmaticstudio.com/blog/2014/3/11/console-shortcuts-tips-tricks)
 - [Single Table Inheritance in Rails](http://www.alexreisner.com/code/single-table-inheritance-in-rails)
 - [Pair Programming research](http://people.cs.vt.edu/~mccricks/papers/wmlh08.pdf)
-
 - [Many uses of Regex](http://www.rexegg.com/regex-uses.html)
 - [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 - [D3 Tutorial](http://alignedleft.com/tutorials/d3)
@@ -219,4 +221,3 @@
 - [Apps for](http://www.appsforgood.org/)
 - [Give to View](http://www.givetoview.com/)
 - [chrome sniffer](http://techdo.me/chrome-sniffer-a-must-have-chrome-extension-for-web-developers/)
-
